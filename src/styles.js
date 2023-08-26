@@ -11,6 +11,7 @@ export const  Container =styled.div`
 export const Content = styled.div`
        width:55%;
        background-color: white;
+       border: 1px solid #000000;
 `
 export const Row =styled.div`
       display:flex;

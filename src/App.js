@@ -94,7 +94,7 @@ const App = () => {
       <Content>
         <Input value= {currentNumber}/>
         <Row>
-          <Button label="AC" onClick={handleOnCLear}/>
+          <Button label="C" onClick={handleOnCLear}/>
           <Button label="/" onClick={handleDivNumbers}/>
           <Button label="x" onClick={handleMultNumbers} />
           <Button label="-" onClick={handleMinusNumbers} />
